@@ -1,0 +1,2 @@
+# statichub
+Static Web pages
